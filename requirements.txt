@@ -1,0 +1,8 @@
+sklearn
+codecs
+xlrd
+xlwt
+jieba
+requests
+urllib
+bs4

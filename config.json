@@ -1,0 +1,9 @@
+{
+  "jsonFile": "D:\\实验室\\朱海萍老师项目合同法/test/data0422.json",
+  "excelFile": "D:\\实验室\\朱海萍老师项目合同法/test/data0422.xls",
+  "dictFile": "D:\\实验室\\朱海萍老师项目合同法/test/userDict.txt",
+  "documentFile": "./datasets/",
+  "documentNum": 1,
+  "resultAfterIFIDF": "D:\\实验室\\朱海萍老师项目合同法/test/data0422AfterTFIDF_new.xls",
+  "resultAfterPOS": "D:\\实验室\\朱海萍老师项目合同法/test/data0422With词性标注_new.xls"
+}
